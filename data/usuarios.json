@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1747776358033",
+    "nombre": "Facundo ",
+    "email": "facutoledo03@gmail.com",
+    "edad": "21"
+  },
+  {
+    "id": "1748354639551",
+    "nombre": "Matías",
+    "email": "mati@gmail.com",
+    "edad": "18"
+  },
+  {
+    "id": "1748354663357",
+    "nombre": "matias",
+    "email": "matias@gmail.com",
+    "edad": "1"
+  },
+  {
+    "id": "1748355173245",
+    "nombre": "Agustín ",
+    "email": "agus@gmail.com",
+    "edad": "25"
+  }
+]

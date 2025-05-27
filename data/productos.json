@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1747776446527",
+    "nombre": "Yerba Playadito",
+    "precio": "5200"
+  },
+  {
+    "id": "1748354164645",
+    "nombre": "Cafe",
+    "precio": "2500"
+  },
+  {
+    "id": "1748354182854",
+    "nombre": "Banana",
+    "precio": "3000"
+  },
+  {
+    "id": "1748354897074",
+    "nombre": "Milanesa",
+    "precio": "1500"
+  },
+  {
+    "id": "1748376200676",
+    "nombre": "Pollo",
+    "precio": "12000"
+  }
+]
